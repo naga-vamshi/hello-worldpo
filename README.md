@@ -1,2 +1,2 @@
 # hello-worldpo
-my first git re
+my first git repo
